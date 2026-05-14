@@ -1,1 +1,3 @@
-
+Eu entrei na turma essa semana e entrei em contato com o professor para saber como devia proceder em relção ao conteúdo, e o senhor disse que era só fazer as lições no code e eu comecei. Tive um pouco de dificuldade no início, pois nunca tinha visto nada de progaramação,, mas não foi nada impossível. Nessa semana fiz até a lição 6 do code, as quais consegui ter um primeiro encontro com programação, e não foi tão difícil, só arrastando os bloquinhos consegui ir entendendo o jeito de pensar e fui adquirindo conhecimento com as vídeo aulas.
+Comecei a vizualar como funcionam as variáveis, confesso que demorei um pouco para entender de fato, mas de resto as lições foram tranquilas nessa primeira semana.
+ 
