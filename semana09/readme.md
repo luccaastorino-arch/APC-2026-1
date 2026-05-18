@@ -1,1 +1,1 @@
-
+Nesta semana, continuamos aprendendo a linguagem c, e agora aprendemos sobre o processo, no código, na pilha, e principalmente nos dados(onde tinha o contrele e variáveis, e a estrutura de dados), um pouco sobre bite e seus tamanhos, e principalmente sobre ponteiros, onde vimos o ponteiro como valor e posição na memória, que é uma bem difícil de vizualizar corretamente.
