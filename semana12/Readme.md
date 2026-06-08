@@ -1,0 +1,2 @@
+Nesta semana avançamos nas lições que demos início na semana passada, onde tive uma certa dificuldade principalmente na parte dos algorítimos de ordenação.
+Começamos ordenando a lista por inteiro, não somente os números, como tinhámos visto nos exemplos anteriores, e contunei tendo muita dificulade para vizualizar essa ordenação. Professor deu a ideia de começar vizualizando primeiramente no lápis e papel pra depois ir para os algorírimos e programação.
