@@ -4,3 +4,4 @@ Aprendemos também a fazer um relatório em txt por linha de comando, a ideia é
 Agora vimos a parte da criação de um programa com mmenu nas opções na linha de comando, de forma a deixar os relatórios dividos, encapsulados e organizados. Vimos a modularização, as interfaces, o input e output, o mouse, o teclado. Uma nova lógica, na qual aprendemos que quando usamos o while, é necesário mandar um comando break para parar o ciclo, se não vira infinito. Vimos também o diagrama de arquitetura do software, observando quais são as modulções principais.
 No último exercício, finalizamos tudo, integrando as opções, e utilizamos o Bubble Sort pela primeira vez.
 Tive muita dificuldade na execução dos exercícios, o site também estava com problemas, mas consegui fazer alguns.
+E teve uma recaptulção de tudo o que já vimos no semestre, para saber qual vai ser a matéria e o conteúdo que será cobrado na prova, e teve um foco maior na linguagem python.
