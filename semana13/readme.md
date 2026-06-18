@@ -1,0 +1,2 @@
+Nesta semana fizemos a prova na primeira aula da semana, tive dificuldade de lembrar de alguns conceitos da linguagem c, mas acredito que fui bem na prova, tirando a questão dos números binários e a questão 9, a última questão, a qual não entendi direito o enunciado.
+Vamos fazer a correção da prova na segunda parte das aulas dessa semana, já vizualizei alguns erros que eu tive, e aprendi para não repití-los.
